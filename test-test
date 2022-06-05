@@ -10,4 +10,7 @@ premier test
     --changer et enregistrer dans une nouvelle branch d un different repositori 
         git branch 2eme_test
         git checkout 2eme_test
+        git add .
+        git commit -m "2eme test, rep diff"
         git push -u https://github.com/HugoEmanuelLC/testv2.git 2eme_test
+
