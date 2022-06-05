@@ -9,3 +9,5 @@ premier test
 2eme test 
     --changer et enregistrer dans une nouvelle branch d un different repositori 
         git branch 2eme_test
+        git checkout 2eme_test
+        git push -u https://github.com/HugoEmanuelLC/testv2.git 2eme_test
