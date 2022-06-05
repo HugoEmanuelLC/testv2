@@ -14,3 +14,10 @@ premier test
         git commit -m "2eme test, rep diff"
         git push -u https://github.com/HugoEmanuelLC/testv2.git 2eme_test
 
+3eme test
+    --changer et enregistrer dans une nouvelle branch au repositori de depart
+        git branch 3eme_test
+        git checkout 3eme_test
+        git commit -m "3eme commit, rep diff de nouveau"
+        git push -u https://github.com/HugoEmanuelLC/tests.git 3eme_test
+        
