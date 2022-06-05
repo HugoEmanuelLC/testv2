@@ -1,2 +1,11 @@
 premier test
     --enregistrer das le repositori tests
+        git init
+        git commit -m "first commit"
+        git branch -M main
+        git remote add origin https://github.com/HugoEmanuelLC/tests.git
+        git push -u origin main
+
+2eme test 
+    --changer et enregistrer dans une nouvelle branch d un different repositori 
+        git branch 2eme_test
