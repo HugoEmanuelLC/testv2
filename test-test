@@ -18,6 +18,7 @@ premier test
     --changer et enregistrer dans une nouvelle branch au repositori de depart
         git branch 3eme_test
         git checkout 3eme_test
+        git add .
         git commit -m "3eme commit, rep diff de nouveau"
         git push -u https://github.com/HugoEmanuelLC/tests.git 3eme_test
         
